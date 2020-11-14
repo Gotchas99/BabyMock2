@@ -1,7 +1,7 @@
 # BabyMock2
 copy from zeroflag on smalltalkhub
 
-BabyMock, a visual mock object library
+# BabyMock, a visual mock object library
 BabyMock is a visual mock object library for Pharo Smalltalk, that supports test-driven development. Like other mock object libraries, BabyMock lets you design and test the interactions between the objects in your programs. BabyMock makes these interactions visible, which can help you to get a good mental picture about the object relationships and the inter-object protocol.
 
 
